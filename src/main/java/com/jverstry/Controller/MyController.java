@@ -2,7 +2,7 @@
 package com.jverstry.Controller;
 
 import com.jverstry.Data.MyUser;
-import java.util.Ma;
+import java.util.Map;
 import javax.validation.Valid;
 import org.springframework.stereotype.Controller;
 import org.springframework.validation.BindingResult;
@@ -43,4 +43,4 @@ public class MyController {
 		
 	}	
 	
-}
+
