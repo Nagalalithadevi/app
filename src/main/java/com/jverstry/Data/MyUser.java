@@ -1,5 +1,5 @@
 
-packag com.jverstry.Data;
+package com.jverstry.Data;
 
 import javax.validation.constraints.Max;
 import javax.validation.constraints.Min;
