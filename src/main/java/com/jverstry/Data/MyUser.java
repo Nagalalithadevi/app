@@ -38,7 +38,7 @@ public class MyUser {
 		this.name = name;
 	}
 
-() {
+public int getage() {
 		return age;
 	}
 
