@@ -1,5 +1,5 @@
 
-
+package com.jverstry.Data;
 
 import javax.validation.constraints.Max;
 import javax.validation.constraints.Min;
@@ -38,7 +38,7 @@ public class MyUser {
 		this.name = name;
 	}
 
-	public int getAge() {
+() {
 		return age;
 	}
 
