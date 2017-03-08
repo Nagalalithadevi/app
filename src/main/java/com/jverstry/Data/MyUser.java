@@ -10,7 +10,7 @@ public class MyUser {
 	
 	@NotNull
 	@Size(min=1,max=20)
-	private String name;
+	private String name
 	
 	@Min(0)
 	@Max(120)
