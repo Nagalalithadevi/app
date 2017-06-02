@@ -214,9 +214,10 @@
 <distributionManagement>
   <repository>
     <id>mavenwebapp</id>
-    <url>http://localhost:8081/nexus/content/repositories/mavenwebapp</url>
+    <url>http://localhost:8081/nexus/content/repositories/webapp</url>
   </repository>
 </distributionManagement>
+	
 
 </project>
 
