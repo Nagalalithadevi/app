@@ -216,8 +216,7 @@
     <id>webapp</id>
     <url>http://34.224.166.60:8081/nexus/content/repositories/webapp</url>
   </repository>
-</distributionManagement>
-	<distributionManagement>
+
   <snapshotRepository>
     <id>webapps</id>
     <url>http://34.224.166.60:8081/nexus/content/repositories/webapps</url>
